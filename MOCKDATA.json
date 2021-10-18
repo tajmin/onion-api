@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "nuclear medicine",
+		"image": "https: //i.ibb.co/fQqwQtp/nuclear.jpg",
+		"description": "Diagnostic nuclear medicine, also known as molecular imaging, is a form of medical imaging that uses tiny amounts of radioactive chemicals called radiotracers.These are generally injected into the bloodstream, allowing our team of experts to look at where the radiotracers localise in your body, providing information about the function of different cells, tissues and organs. The results of these scans enable doctors to provide an accurate diagnosis of a variety of conditions including cancer. OneCare has two state-of-the-art SPECT/CT cameras with quantitative capability.At OneCare, this kind of imaging is separated into two categories – nuclear medicine and positron emission tomography (PET). Both types are usually used in conjunction with a computed tomography (CT) scan to help localise the site of radiotracer accumulation, helping doctors select and plan the best treatment for you. The nuclear medicine department also specialises in radionuclide therapy to treat a variety of cancers."
+	},
+	{
+		"id": 2,
+		"title": "POSITRON EMISSION TOMOGRAPHY",
+		"image": "https: //i.ibb.co/BwFv5fb/pet.jpg",
+		"description": "A Positron Emission Tomography (PET) scan produces images of how organs or tissues inside the body work. It provides information that is not available from using other scans. This information can be used to decide the best treatment for managing your cancer. PET scanning can also be used to monitor the effectiveness of treatment and to help plan for surgery and radiation therapy. The scanner looks very similar to a CT scanner and is open at both ends. A small amount of radioactive solution (radiotracer) will be injected into a vein in your hand or arm. The most common radiotracer is 18F-FDG (FDG), which is a sugar compound."
+	},
+	{
+		"id": 3,
+		"title": "BONE MARROW BIOPSY",
+		"image": "https://i.ibb.co/cDJdGtD/bone.jpg",
+		"description": "A bone marrow biopsy is a procedure frequently performed to aid in the diagnosis and staging of many blood conditions. Your treating doctor will discuss the reasons for this test before arranging this procedure. This procedure is performed as a day case by either a Haematologist or Haematology Registrar. Over 1,000 bone marrow biopsies are performed each year at OneCare. The bone marrow biopsy is almost always taken from the back of the pelvis bone where the large bone of the iliac crest is readily and safely accessible. Rarely, there may be a need to do the biopsy from the front (anterior iliac crest), or even the sternum (breast bone)."
+	},
+	{
+		"id": 4,
+		"title": "CANCER SURGERY",
+		"image": "https: //i.ibb.co/xFSK9pW/surgery.jpg",
+		"description": "The Division of Cancer Surgery incorporates The Departments of Surgical Oncology, Anaesthesia and Pain Medicine, and The Perioperative Service.It provides a comprehensive anaesthetic and surgical service for patients requiring surgery for cancer, excluding neurosurgery and thoracic surgery, which is provided by our VCCC partners at the Royal Melbourne Hospital. Care is delivered through an integrated multidisciplinary approach, utilising purpose built, state of the art infrastructure. This involves new integrated operating theatres, including intraoperative radiotherapy, 2-D and 3-D laparoscopic equipment, and an established Di Vinci Robotic program."
+	},
+	{
+		"id": 5,
+		"title": "RADIATION THERAPY",
+		"image": "https: //i.ibb.co/3yKPVK1/radiation.jpg",
+		"description": "Radiation therapy is a form of cancer treatment that uses radiation (x-rays). Radiation therapy may be given on its own, or with other forms of cancer treatment such as chemotherapy or surgery. Like having an x-ray picture, radiation therapy is painless. Radiation therapy is a localised treatment, which means that it generally only affects the part of your body that requires treatment. Most of the time radiation therapy needs to be delivered over a number of days or weeks. The majority of our patients come to OneCare for about half an hour each day, and are otherwise able to maintain their usual activities.  "
+	},
+	{
+		"id": 6,
+		"title": "CANCER INFORMATION & RESOURCES",
+		"image": "https: //i.ibb.co/0YwtjXm/info.jpg",
+		"description": "OneCare provides a range of information for people with cancer, their families and carers. These resources cover living with and beyond a cancer diagnosis. The information is designed to complement the support provided by your healthcare team. We provide information that addresses the physical, emotional and social impacts a cancer diagnosis can bring.  Our catalogue of cancer information includes resources developed by our experts and specially selected titles sourced from trusted organisations and agencies. There are many resources freely available in the cancer information hub on level 2D.  This includes translated health resources. For further assistance, please see patient information or speak to our friendly staff. "
+	}
+]
