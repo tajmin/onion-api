@@ -1,5 +1,6 @@
 [
     {
+        "id":"1",
         "title": "Imperial Motors - Luxury Car Dealership Website",
         "live": "https://imperial-motors.web.app/",
         "github": "https://github.com/tajmin/imperial-motors-client-side",
@@ -16,6 +17,7 @@
         "image3": "https://i.ibb.co/dBtrryF/imperial-3.png"
     },
     {
+        "id":"2",
         "title": "Wanderlust - Travel Management Website",
         "live": "https://wanderlust-c746b.web.app/",
         "github": "https://github.com/tajmin/wanderlust-client-side",
@@ -30,5 +32,22 @@
         "img_banner": "https://i.ibb.co/GnRkqg4/wanderlust-banner.jpg",
         "image2": "https://i.ibb.co/3BFCgBy/wanderlust-2.jpg",
         "image3": "https://i.ibb.co/txzyvLB/wanderlust-4.jpg"
+    },
+    {
+        "id":"3",
+        "title": "OneCare - Website for Hospitals and Healthcare Centers",
+        "live": "https://medicare-service.web.app/",
+        "github": "https://github.com/tajmin/onecare",
+        "about": "OneCare is a Single Page Application (SPA) website built with React keeping hospitals, all purpose and specialized healthcare centers in mind. This version of the project focuses on an imaginary cancer treament center that also provides basic to specialized healthcare services. OneCare features a banner, list of healthcare related services offered from the healthcare center, top and bottom in the home page. Each service has a more detailed view which can only be accessed if the visitor is logged in as a registered user. OneCare also offers sign-in and register pages.",
+        "features": [
+            "Displays healthcare related services offered by the center in brief dynamically.",
+            "Each healthcare service having a view with detailed informations for potential users/customers.",
+            "Service details pages being private routes to facilitate only authentic users and avoid scams.",
+            "Email authentication and Google Sign-in method to help users register and query and subscribe for healthcare services.",
+            "COVID-19 page for COVID related information, vaccination campaign, testing facility and state imposed regulations - all in one place."
+        ],
+        "img_banner": "https://i.ibb.co/8dxJyPF/onecare-banner.jpg",
+        "image2": "https://i.ibb.co/vxd2B39/onecare-2.jpg",
+        "image3": "https://i.ibb.co/jH20qTN/onecare-3.jpg"
     }
 ]
