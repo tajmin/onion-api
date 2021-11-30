@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Imperial Motors - Luxury Car Dealership Website",
+        "live": "https://imperial-motors.web.app/",
+        "github": "https://github.com/tajmin/imperial-motors-client-side",
+        "about": "Imperial Motors is a niche website for an imaginary luxury car dealership based in Dubai that exhibits a dark theme to best match the luxury lifestyle. A video trailer on the hero section and top cars of the astonishing inventory make up the home page. This mobile-friendly web app comes with a dynamic car list for showcase, car purchase, explore inventory, user authentication, user and admin dashboard, and many more.",
+        "features": [
+            "Showcases a selection of the inventory on the home section and the whole inventory on the Explore Inventory page.",
+            "Car purchase option only for authenticated/logged in users and user dashboard showing purchase details.",
+            "Admin Dashboard features Add Car, Manage Cars, Manage Orders and assign admin role through Make Admin option.",
+            "Cancel purchase option for users and approve purchase option for admin.",
+            "Dynamic rating and review section on home page submitted by authenticated users only."
+        ],
+        "img_banner": "https://i.ibb.co/XSzkC8s/imperial-baaner.jpg",
+        "image2": "https://i.ibb.co/Y81TvTR/imperial-2.jpg",
+        "image3": "https://i.ibb.co/dBtrryF/imperial-3.png"
+    },
+    {
+        "title": "Wanderlust - Travel Management Website",
+        "live": "https://wanderlust-c746b.web.app/",
+        "github": "https://github.com/tajmin/wanderlust-client-side",
+        "about": "Wanderlust is a mobile-friendly SPA website for companies that has anything to do with travel and vacations, including but not limited to Travel Agents, Travel eCommerce, Tour Guides, Travel Company, Travel Club, Tour Operator, Travel listing Directory, Travel Deals, and Tour Packages. Wanderlust has a list of travel plans/vacation getaways section on the home page and also features user authentication, booking steps for authenticated users, My Orders page for booking related information and lastly, Manage Orders page for managing all sorts of booking requested by registered users. Wanderslust is a MERN stack project that stores and loads data from MongoDB cloud database and uses RESTful services.",
+        "features": [
+            "Showcases vacation plans offered by the company in brief and dynamically with each plan having a detailed page for booking.",
+            "Google Sign-in method to facilitate user authentication and help book vacation plans available to only logged in users.",
+            "My Orders page for the list of bookings made by the user with an option to cancel each booking.",
+            "Bookings made by all of the users with an option to approve each booking available on the Manage Order page.",
+            "Add Tour Plan page for adding a new vacation plan."
+        ],
+        "img_banner": "https://i.ibb.co/GnRkqg4/wanderlust-banner.jpg",
+        "image2": "https://i.ibb.co/3BFCgBy/wanderlust-2.jpg",
+        "image3": "https://i.ibb.co/txzyvLB/wanderlust-4.jpg"
+    }
+]
